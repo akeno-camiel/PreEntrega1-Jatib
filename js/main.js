@@ -1,6 +1,6 @@
-console.log("Hola");
-
 alert ("Bienvenido a '21'");
+
+alert ("El objetivo de este juego es sumar 21. \n Te daré tres cartas, y decidirás tu destino al aceptar otra o no");
 
 let añoNacimiento = Number(prompt("Ingrese su año de nacimiento"));
 
